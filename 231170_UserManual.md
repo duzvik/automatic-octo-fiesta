@@ -5,7 +5,7 @@
 
 ![CMS Logo](Aspose.Words.45fb8c48-ed36-4331-b109-00e5ca88e1a4.001.png)
 
-**<Project Name/Acronym>**
+**<Project Name/Acronym12>**
 # **User Manual**
 **Version X.X**
 
