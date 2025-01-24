@@ -7,6 +7,7 @@
 
 **<Project Name/Acronym>**
 # **User Manual**
+1
 **Version X.X**
 
 **MM/DD/YYYY**
