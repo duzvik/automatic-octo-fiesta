@@ -162,6 +162,14 @@ your preferred browser.
 127.0.0.1:8000
 ```
 
+Test:
+For production environments...
+
+```sh
+npm install --production
+NODE_ENV=production node app
+```
+
 ## License
 
 MIT
